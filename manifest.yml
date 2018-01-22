@@ -1,6 +1,6 @@
 ---
 applications:
-- name: drupal8-example
+- name: php-micro
   memory: 1023M
   disk_quota: 1023M
   #buildpack: php_buildpack
